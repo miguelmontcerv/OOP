@@ -1,7 +1,7 @@
 # Object Oriented Programming
 ## Monteros Cervantes Miguel Angel
 **Score: 10**  
-**Teacher: Roberto Tecla**
+**Teacher: Roberto Tecla Parra**
 
 This repository includes the codes created in the subject *Object Oriented Programming*, which was taken in the *2020-1 semester* at *Escuela Superior de Cómputo* of the *Instituto Politécnico Nacional*, in **Mexico.**
 
